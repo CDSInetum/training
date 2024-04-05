@@ -6,7 +6,9 @@ https://github.com/CDSInetum/training.git
 
 # GIT
 
-!! COMPROBAR RAMA EN LA QUE ESTAMOS EN STUDIO y GIT!!
+-!! COMPROBAR RAMA EN LA QUE ESTAMOS EN STUDIO y GIT!!
+
+- Desde dev crear rama dayXXX-iniciales -> day01-cds
 
 ## Comandos útiles
 
